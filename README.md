@@ -11,3 +11,6 @@ npm install @babel/cli @babel/core @babel/preset-env --save-dev
 
 npx babel <ES6 code file name> --out-file <ES5 code file name>
 npx babel promises.js --out-file promises_es5.js
+
+
+
